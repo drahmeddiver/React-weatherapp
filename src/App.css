@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    color: azure;
+    /* border:%; */
+    text-align: center;
+    /* display: flex; */
+    size: 100vw;
+}
+.search-box{
+    display:flex;
+    justify-content: center;
+    size: 100vw;
+
+
+}
+button{
+    background-color: aliceblue;
+    border-radius: 30px;
+    color: black;
+    font-weight: 600;
+}
+.weather-icon{
+ size: 30px;
+
+
+}
