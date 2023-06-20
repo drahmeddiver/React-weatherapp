@@ -1,10 +1,16 @@
 *{
     background-color: black;
-    color: azure;
+    color: rgb(4, 7, 7);
     /* border:%; */
     text-align: center;
     /* display: flex; */
     size: 100vw;
+    background-image: url(./IMG_20230120_162739.jpg);
+    max-width: 100%;
+    max-height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: xx-large;
 }
 .search-box{
     display:flex;
@@ -23,4 +29,9 @@ button{
  size: 30px;
 
 
+}
+.weather-status-icon{
+    font-size: x-large;
+    height: 80px;
+    width: 80px;
 }
